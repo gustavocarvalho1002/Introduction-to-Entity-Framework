@@ -1,0 +1,4 @@
+C:\Users\Carvalho\Documents\Introduction-to-Entity-Framework\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\Carvalho\Documents\Introduction-to-Entity-Framework\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Carvalho\Documents\Introduction-to-Entity-Framework\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carvalho\Documents\Introduction-to-Entity-Framework\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
