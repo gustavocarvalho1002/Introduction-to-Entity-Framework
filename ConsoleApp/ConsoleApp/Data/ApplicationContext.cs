@@ -1,6 +1,4 @@
-﻿
-using ConsoleApbuilder.Domain;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using System.Net;
 
 namespace ConsoleApbuilder.Data
@@ -9,7 +7,7 @@ namespace ConsoleApbuilder.Data
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=DESKTOP-3M4K2KV\\SQLEXPRESS;Initial Catalog=ConsoleAppDataBase;Trusted_Connection=True;")
+            optionsBuilder.UseSqlServer("Data Source=DESKTOP-3M4K2KV\\SQLEXPRESS;Initial Catalog=ConsoleAppDataBase;Trusted_Connection=True;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
